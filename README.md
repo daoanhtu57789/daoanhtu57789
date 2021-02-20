@@ -1,7 +1,7 @@
 ### Hi, how are you? 👋
 ### Good day ✨.
 
-I'm a front-end developer in Vietnam , interested with React JS.I like to build things, you can find everything that I build here on my Github account
+I'm a front-end developer in Vietnam , interested with React JS and react framework (Next.Js) .I like to build things, you can find everything that I build here on my Github account
 
 The best way to contact me is usually through [Facebook](https://www.facebook.com/tuda54) or Email.
 
